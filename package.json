@@ -1,0 +1,29 @@
+{
+  "name": "madbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mad Rage",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^1.0.0",
+    "canvas": "^2.9.3",
+    "discord-api-types": "^0.23.1",
+    "discord-canvas-easy": "^3.1.0",
+    "discord.js": "^14.15.3",
+    "express": "^4.17.3",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^3.0.0-canary.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.10.0",
+    "node-fetch": "2.6.1",
+    "os": "^0.1.2",
+    "util": "^0.12.4",
+    "uuid": "^8.3.2"
+  }
+}
