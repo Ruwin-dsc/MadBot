@@ -1,5 +1,5 @@
 <h1 align="center">
- 🔪 〢 Protect List [Remade]
+ 🤖 〢 MadBot [LEAK]
 </h1>
 
 ---
@@ -12,18 +12,18 @@
 - [🪄・Discord](https://discord.gg/uhq)
 
 ## <a id="deploys"></a>📩 〢 Deploys
-[![Deploy](https://raw.githubusercontent.com/Nekros-dsc/deploy-buttons/main/buttons/remade/replit.svg)](https://replit.com/github/Ruwin-dsc/protectList)
+[![Deploy](https://raw.githubusercontent.com/Nekros-dsc/deploy-buttons/main/buttons/remade/replit.svg)](https://replit.com/github/Ruwin-dsc/MadBot)
 
-[![Deploy](https://raw.githubusercontent.com/Nekros-dsc/deploy-buttons/main/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/Ruwin-dsc/protectList)
+[![Deploy](https://raw.githubusercontent.com/Nekros-dsc/deploy-buttons/main/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/Ruwin-dsc/MadBot)
 
-[![Deploy](https://raw.githubusercontent.com/Nekros-dsc/deploy-buttons/main/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/Ruwin-dsc/protectList)
+[![Deploy](https://raw.githubusercontent.com/Nekros-dsc/deploy-buttons/main/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/Ruwin-dsc/MadBot)
 
-[![Deploy](https://raw.githubusercontent.com/Nekros-dsc/deploy-buttons/main/buttons/remade/railway.svg)](https://railway.app/new/template?template=https://github.com/Ruwin-dsc/protectList)
+[![Deploy](https://raw.githubusercontent.com/Nekros-dsc/deploy-buttons/main/buttons/remade/railway.svg)](https://railway.app/new/template?template=https://github.com/Ruwin-dsc/MadBot)
 
 ## <a id="setup"></a> 📁 〢 Setting up
 
 1. Install [NodeJS](https://nodejs.org/)
-2. Install [Files](https://github.com/Ruwin-dsc/protectList/archive/refs/heads/main.zip)
+2. Install [Files](https://github.com/Ruwin-dsc/MadBot/archive/refs/heads/main.zip)
 3. Complete the configuration
 5. Enjoy the tool
 
@@ -35,5 +35,5 @@
 
 ### <a id="authors"></a>🕵️‍♂️ 〢 Authors
 - [Ruwin](https://github.com/Ruwin-dsc)
-
+- [MadRage](https://github.com/MadRage)
 ---
