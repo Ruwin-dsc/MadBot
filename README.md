@@ -35,5 +35,5 @@
 
 ### <a id="authors"></a>🕵️‍♂️ 〢 Authors
 - [Ruwin](https://github.com/Ruwin-dsc)
-- [MadRage](https://github.com/MadRage)
+- [MadRage](https://github.com/Mad-Rage)
 ---
